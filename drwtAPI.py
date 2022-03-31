@@ -3,7 +3,7 @@ import json
 import time
 import lottoSql
 import requests
-# 회차 애초부터 가져와서 거기부터 검색하게 코드 구성하기
+
 drwNo = 1
 lotto = [0 for i in range(46)]
 bonusLotto = [0 for i in range(46)]
